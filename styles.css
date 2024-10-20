@@ -50,6 +50,7 @@ header nav ul li a {
 .hero-section h2 {
     font-size: 3rem;
     margin-bottom: 10px;
+    color: black;
 }
 
 .hero-section p {
